@@ -8,7 +8,7 @@ Pre-patched and tested fork of Gensyn RL-Swarm for NVIDIA RTX 5090/5080/5070 (Bl
 - vLLM disabled (incompatible with sm_120)
 - Flash Attention disabled
 - DHT bootstrap fixes
-- Tested for 30+ minutes on RTX 5090
+- Tested for 15 hours+ on RTX 5090
 
 ## 🎯 Quick Install
 ```bash
