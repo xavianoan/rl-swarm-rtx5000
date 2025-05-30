@@ -18,3 +18,18 @@ python -m venv gensyn_env
 source gensyn_env/bin/activate
 pip install -r requirements-rtx5000.txt
 ./run_rl_swarm.sh
+
+📊 Tested Configuration
+
+GPU: NVIDIA RTX 5090
+CUDA: 12.8
+Driver: 570.133.07
+Ubuntu 22.04
+Python 3.12
+
+🤝 Credits
+Original repo: https://github.com/gensyn-ai/rl-swarm
+EOF
+git add README.md
+git commit -m "Add README for RTX 5000 series"
+git push
